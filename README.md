@@ -5,7 +5,6 @@
  - Foco em cursar Ciência da Computação. 🎈
 
 <p align="right">
- <img width="200" src="https://im4.ezgif.com/tmp/ezgif-4-7afc28faa3.gif">
  </p>
  
  <div> 
