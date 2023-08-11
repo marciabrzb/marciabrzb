@@ -2,7 +2,7 @@
 
  - Tenho como objetivo me tornar full stack. 🤖
  - Atualmente, estudo front-end. 📚
- - Foco em cursar Ciência da Computação. 🎈
+ - Cursando Produção Multimídia e Sistemas para Internet 🎈
 
 <p align="right">
  </p>
